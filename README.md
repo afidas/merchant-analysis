@@ -18,7 +18,7 @@ However, **what discounts will be offered?** That question will be answered by a
 
 <p align="center">
   <a href="" rel="noopener">
-    <img src="Assets/merchant-analysis.png" alt="Project logo">
+    <img src="Asset/merchant-analysis.png" alt="Project logo">
   </a>
 </p>
 
